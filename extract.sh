@@ -1,5 +1,6 @@
 #1/bin/bash
 
+
 # TODO : figure out how to fix digits e.g. 1(X) 00001 (O)
 
 
